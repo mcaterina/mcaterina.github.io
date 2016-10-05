@@ -1,0 +1,81 @@
+@ charset="UTF-8";
+Body {
+			Background:burlywood;
+			Font 100% Trebuchet MS, Helvetica, sans-serif;
+		}
+		h1 {
+			font: 300% Trebuchet MS, Helvetica, sans-serif;
+			color: Crimson;
+		}
+		h2 {
+			font: 150% Trebuchet MS, Helvetica, sans-serif;
+			color: crimson;
+		}
+		#wrapper {
+			width: 1100px;
+			margin: 0 auto;
+			padding: 0 50px;
+			text-align: left;
+			position: reletive;
+		}
+		header#mainheader {
+			height: 185px;
+			background: url(images/logo.png) no-repeat 25px center;
+			padding: 0 75px 0 300px;
+			position: relative;
+			border-bottom: 2px solid #7f7f7f;
+			margin-bottom:16px;
+		}
+		header#mainheader div{
+			margin-top: 16px;
+		}
+		header#mainheader ul{
+			list-style: none;
+			float: left;
+		}
+		header#mainheader ul li{
+			float: left;
+		}
+		header#mainheader ul li a {
+			font-family: Trebuchet MS, Helvetica, sans-serif;
+			font-size: 20px;
+			color: #000;
+			padding: 0 20px;
+			border-right: 1px solid #000;
+			text-decoration: none;
+		}
+		header#mainheader ul li a.last{
+			border: none;
+		}
+		header#mainheader ul li a:hover{
+			color: crimson;
+		}
+		section#content {
+			float: left;
+			width: 600px;
+			padding: 0 10px 0 25px;
+			margin-bottom: 10px;
+			border-right: 1px solid #7f7f7f;
+		}
+		section#content p {
+			color: #666;
+			line-height: 1.6;
+			margin-bottom: 10px;
+		}
+		aside#hobbies {
+			font-size: 90%;
+			float: right;
+			width: 450px;
+			margin-bottom: 20px;
+		}
+		footer#pageFooter {
+			clear: both;
+			border-top: 2px solid #7f7f7f;
+			padding: 20px;
+		}
+		footer#pageFooter p {
+			text-align: center;
+			font-style: italic;
+			margin-bottom: 10px;
+			color: #666;
+		}
