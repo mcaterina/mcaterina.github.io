@@ -1,15 +1,15 @@
-@ charset="UTF-8";
+@charset="UTF-8";
 		body {
-			background: #DEB887;
+			background: darkorange;
 			font: 100% Trebuchet MS, Helvetica, sans-serif;
 		}
 		h1 {
 			font: 300% Trebuchet MS, Helvetica, sans-serif;
-			color: Crimson;
+			color: Snow;
 		}
 		h2 {
 			font: 150% Trebuchet MS, Helvetica, sans-serif;
-			color: crimson;
+			color: snow;
 		}
 		#wrapper {
 			width: 1100px;
@@ -23,7 +23,7 @@
 			background: url(images/logo.png) no-repeat 25px center;
 			padding: 0 75px 0 300px;
 			position: relative;
-			border-bottom: 2px solid #7f7f7f;
+			border-bottom: 2px solid snow;
 			margin-bottom:16px;
 		}
 		header#mainheader div{
@@ -39,26 +39,26 @@
 		header#mainheader ul li a {
 			font-family: Trebuchet MS, Helvetica, sans-serif;
 			font-size: 20px;
-			color: #000;
+			color: snow;
 			padding: 0 20px;
-			border-right: 1px solid #000;
+			border-right: 1px solid snow;
 			text-decoration: none;
 		}
 		header#mainheader ul li a.last{
 			border: none;
 		}
 		header#mainheader ul li a:hover{
-			color: crimson;
+			color: snow;
 		}
 		section#content {
 			float: left;
 			width: 600px;
 			padding: 0 10px 0 25px;
 			margin-bottom: 10px;
-			border-right: 1px solid #7f7f7f;
+			border-right: 1px solid snow;
 		}
 		section#content p {
-			color: #666;
+			color: snow;
 			line-height: 1.6;
 			margin-bottom: 10px;
 		}
@@ -70,12 +70,12 @@
 		}
 		footer#pageFooter {
 			clear: both;
-			border-top: 2px solid #7f7f7f;
+			border-top: 2px solid snow;
 			padding: 20px;
 		}
 		footer#pageFooter p {
 			text-align: center;
 			font-style: italic;
 			margin-bottom: 10px;
-			color: #666;
+			color: snow;
 		}
