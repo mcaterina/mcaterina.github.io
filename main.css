@@ -8,8 +8,14 @@
 			color: CornflowerBlue ;
 		}
 		h2 {
-			font: 150% Trebuchet MS, Helvetica, sans-serif;
+			font:170% Trebuchet MS, Helvetica, sans-serif;
 			color: CornflowerBlue ;
+		}
+		h3 {
+			font: 150% Trebuchet MS, Helvetica, sans-serif;
+			color: #7f7f7f ;
+			float: Middle;
+			
 		}
 		#wrapper {
 			width: 1100px;
